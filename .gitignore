@@ -21,3 +21,10 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+Task3/answer_*
+Task3/Train
+Task3/Test
+Task3/Valid
+gtzan_key-master
+genres
