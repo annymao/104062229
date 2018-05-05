@@ -45,7 +45,7 @@ METAL   0.1935    |  0.1935   | 0.21505
 -------------------------------------------------
 """
 
-for GAMA in [1,10,100]:
+for GAMA in [1,10,100,1000]:
     f = open('output/Q1_{0}.txt'.format(GAMA),'w')
     for GENRES in ['rock','hiphop','pop','blues','metal']:
         music_pieces = 100;
