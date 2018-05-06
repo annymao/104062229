@@ -1,0 +1,1604 @@
+2   c c
+correct!
+3   c c
+correct!
+4   c c
+correct!
+5   c c
+correct!
+6   e- c
+7   E- c
+Relative
+8   c c
+correct!
+9   c c
+correct!
+10   c c
+correct!
+11   G c
+12   G c
+13   f c
+fifthPerfect
+14   F c
+15   F c
+16   b c
+17   d c
+18   f c
+fifthPerfect
+19   f c
+fifthPerfect
+20   f c
+fifthPerfect
+21   A- c
+22   A- c
+23   G c
+24   G c
+25   g c
+26   c c
+correct!
+27   e c
+28   F c
+29   e c
+30   G c
+31   g c
+32   g c
+33   a- c
+34   a- c
+35   a- c
+36   G c
+37   g c
+38   C c
+Parallel
+39   c c
+correct!
+40   d c
+41   d c
+42   c c
+correct!
+43   e- c
+44   c c
+correct!
+45   c c
+correct!
+46   G c
+47   g c
+48   G c
+49   G c
+50   c c
+correct!
+51   c c
+correct!
+52   c c
+correct!
+53   c c
+correct!
+54   e c
+55   d c
+56   d c
+57   c c
+correct!
+58   c c
+correct!
+59   c c
+correct!
+60   c c
+correct!
+61   g c
+62   b c
+63   c c
+correct!
+64   c c
+correct!
+65   c c
+correct!
+66   c c
+correct!
+67   c c
+correct!
+68   c c
+correct!
+69   G c
+70   G c
+71   G c
+72   G c
+73   b c
+74   G c
+75   G c
+76   G c
+77   G c
+78   c c
+correct!
+79   c c
+correct!
+80   c c
+correct!
+81   d c
+82   f c
+fifthPerfect
+83   f c
+fifthPerfect
+84   F c
+85   D c
+86   d c
+87   d c
+88   c c
+correct!
+89   c c
+correct!
+90   C c
+Parallel
+91   C c
+Parallel
+92   e- c
+93   e- c
+94   e- A-
+95   e- A-
+96   c+ A-
+97   G A-
+98   E- A-
+99   A- A-
+correct!
+100   a- A-
+Parallel
+101   E- A-
+102   E- A-
+103   D- A-
+fifthPerfect
+104   D- A-
+fifthPerfect
+105   A- A-
+correct!
+106   a- A-
+Parallel
+107   c A-
+108   c A-
+109   b- f
+fifthPerfect
+110   C f
+111   a f
+112   a f
+113   a f
+114   C f
+115   g f
+116   g f
+117   a- f
+118   A- f
+Relative
+119   A- f
+Relative
+120   A- f
+Relative
+121   A- D-
+122   A- D-
+123   A- D-
+124   f D-
+125   A- D-
+126   A- D-
+127   E- D-
+128   G- D-
+fifthPerfect
+129   f+ D-
+130   c+ D-
+Parallel
+131   f D-
+132   F D-
+133   a E-
+134   e- E-
+Parallel
+135   E- E-
+correct!
+136   E- E-
+correct!
+137   B- E-
+138   D E-
+139   E- E-
+correct!
+140   e- E-
+Parallel
+141   e- E-
+Parallel
+142   d E-
+143   f E-
+144   f E-
+145   f E-
+146   f E-
+147   f E-
+148   g E-
+149   e- E-
+Parallel
+150   e- E-
+Parallel
+151   f E-
+152   A- E-
+fifthPerfect
+153   A- E-
+fifthPerfect
+154   A- E-
+fifthPerfect
+155   g E-
+156   C E-
+157   C E-
+158   f E-
+159   F E-
+160   B- E-
+161   B- E-
+162   E- E-
+correct!
+163   a- E-
+164   A- E-
+fifthPerfect
+165   a- E-
+166   g E-
+167   g E-
+168   B- E-
+169   B- E-
+170   B- E-
+171   B- E-
+172   B- E-
+173   a- E-
+174   b- E-
+175   B- E-
+176   a- E-
+177   b- E-
+178   B- E-
+179   B- E-
+180   B- E-
+181   B- E-
+182   B- E-
+183   B- E-
+184   B- E-
+185   B- E-
+186   g E-
+187   B- E-
+188   B- E-
+189   a- E-
+190   a- E-
+191   E- E-
+correct!
+192   E- E-
+correct!
+193   a- E-
+194   E- E-
+correct!
+195   B- E-
+196   b- E-
+197   b- E-
+198   B- E-
+199   B- E-
+200   b- E-
+201   b- E-
+202   B- E-
+203   B- E-
+204   E- E-
+correct!
+205   g E-
+206   B- E-
+207   E- E-
+correct!
+208   E- E-
+correct!
+209   e- E-
+Parallel
+210   e- E-
+Parallel
+211   e- E-
+Parallel
+212   E- E-
+correct!
+213   E- E-
+correct!
+214   E- E-
+correct!
+215   e E-
+216   e E-
+217   E- E-
+correct!
+218   e E-
+219   e E-
+220   g E-
+221   g E-
+222   f E-
+223   f E-
+224   f E-
+225   e- E-
+Parallel
+226   e- E-
+Parallel
+227   E- E-
+correct!
+228   g E-
+229   g E-
+230   g E-
+231   E- E-
+correct!
+232   E- E-
+correct!
+233   e- E-
+Parallel
+234   e- E-
+Parallel
+235   e- E-
+Parallel
+236   E- E-
+correct!
+237   E- E-
+correct!
+238   E- E-
+correct!
+239   e- E-
+Parallel
+240   E- E-
+correct!
+241   E- E-
+correct!
+242   e- E-
+Parallel
+243   e- E-
+Parallel
+244   e- E-
+Parallel
+245   e- E-
+Parallel
+246   c E-
+Relative
+247   c E-
+Relative
+248   e- E-
+Parallel
+249   E- E-
+correct!
+250   e- E-
+Parallel
+251   e- E-
+Parallel
+252   c E-
+Relative
+253   e- E-
+Parallel
+254   e- E-
+Parallel
+255   B- E-
+256   B- E-
+257   B- E-
+258   E- E-
+correct!
+259   E- E-
+correct!
+260   E- E-
+correct!
+261   E- E-
+correct!
+262   e- E-
+Parallel
+263   E- E-
+correct!
+264   E- E-
+correct!
+265   E- E-
+correct!
+266   e- E-
+Parallel
+267   g E-
+268   g E-
+269   E- E-
+correct!
+270   E- E-
+correct!
+271   g E-
+272   E- E-
+correct!
+273   E- E-
+correct!
+274   g E-
+275   e E-
+276   d E-
+277   f E-
+278   f E-
+279   B- E-
+280   B- E-
+281   a E-
+282   a E-
+283   E- E-
+correct!
+284   E- E-
+correct!
+285   g E-
+286   g E-
+287   g E-
+288   F E-
+289   f E-
+290   a- E-
+291   a- E-
+292   g E-
+293   a- E-
+294   a E-
+295   a- E-
+296   a- E-
+297   a- E-
+298   g E-
+299   g E-
+300   F E-
+301   f E-
+302   d E-
+303   d E-
+304   g E-
+305   g E-
+306   F E-
+307   f E-
+308   d E-
+309   d E-
+310   D E-
+311   D E-
+312   B- E-
+313   E- E-
+correct!
+314   E- E-
+correct!
+315   c E-
+Relative
+316   c c
+correct!
+317   c c
+correct!
+318   c c
+correct!
+319   c c
+correct!
+320   c c
+correct!
+321   E- c
+Relative
+322   e- c
+323   E- c
+Relative
+324   c c
+correct!
+325   c c
+correct!
+326   G c
+327   G c
+328   A- c
+329   f c
+fifthPerfect
+330   B c
+331   b c
+332   d c
+333   F c
+334   f c
+fifthPerfect
+335   f c
+fifthPerfect
+336   A- c
+337   A- c
+338   A- c
+339   G c
+340   g c
+341   c c
+correct!
+342   f c
+fifthPerfect
+343   F c
+344   C c
+Parallel
+345   c c
+correct!
+346   G c
+347   g c
+348   f c
+fifthPerfect
+349   a- c
+350   a- c
+351   G c
+352   g c
+353   c c
+correct!
+354   F c
+355   e- c
+356   c c
+correct!
+357   d c
+358   e- c
+359   c c
+correct!
+360   c c
+correct!
+361   c c
+correct!
+362   g c
+363   g c
+364   G c
+365   c c
+correct!
+366   c c
+correct!
+367   c c
+correct!
+368   c c
+correct!
+369   c c
+correct!
+370   f c
+fifthPerfect
+371   d c
+372   c c
+correct!
+373   c c
+correct!
+374   c c
+correct!
+375   c c
+correct!
+376   G c
+377   D c
+378   c c
+correct!
+379   c c
+correct!
+380   c c
+correct!
+381   c c
+correct!
+382   c c
+correct!
+383   c c
+correct!
+384   c c
+correct!
+385   G c
+386   G c
+387   G c
+388   G c
+389   G c
+390   G c
+391   G c
+392   G c
+393   c c
+correct!
+394   c c
+correct!
+395   c c
+correct!
+396   c c
+correct!
+397   d c
+398   f c
+fifthPerfect
+399   F c
+400   d c
+401   D c
+402   d c
+403   c c
+correct!
+404   c c
+correct!
+405   c c
+correct!
+406   C c
+Parallel
+407   f c
+fifthPerfect
+408   e- c
+409   e- A-
+410   e- A-
+411   e- A-
+412   G A-
+413   c A-
+414   E- A-
+415   A- A-
+correct!
+416   a- A-
+Parallel
+417   E- A-
+418   g A-
+419   D- A-
+fifthPerfect
+420   D- A-
+fifthPerfect
+421   a- A-
+Parallel
+422   a- A-
+Parallel
+423   c A-
+424   b- f
+fifthPerfect
+425   a f
+426   a f
+427   a f
+428   a f
+429   a f
+430   g f
+431   g f
+432   g f
+433   a- f
+434   A- f
+Relative
+435   A- f
+Relative
+436   A- D-
+437   A- D-
+438   A- D-
+439   D- D-
+correct!
+440   f D-
+441   A- D-
+442   A- D-
+443   e- D-
+444   G- D-
+fifthPerfect
+445   c+ D-
+Parallel
+446   D- D-
+correct!
+447   F D-
+448   F E-
+449   e- E-
+Parallel
+450   e- E-
+Parallel
+451   E- E-
+correct!
+452   B- E-
+453   B- E-
+454   D E-
+455   E- E-
+correct!
+456   e- E-
+Parallel
+457   e- E-
+Parallel
+458   f E-
+459   f E-
+460   f E-
+461   f E-
+462   f E-
+463   g E-
+464   B- E-
+465   e- E-
+Parallel
+466   f E-
+467   A- E-
+fifthPerfect
+468   A- E-
+fifthPerfect
+469   A- E-
+fifthPerfect
+470   g E-
+471   g E-
+472   C E-
+473   f E-
+474   f E-
+475   F E-
+476   B- E-
+477   B- E-
+478   a- E-
+479   a- E-
+480   a- E-
+481   g E-
+482   g E-
+483   B- E-
+484   B- E-
+485   B- E-
+486   B- E-
+487   g E-
+488   a- E-
+489   g E-
+490   g E-
+491   g E-
+492   g E-
+493   B- E-
+494   B- E-
+495   B- E-
+496   e- E-
+Parallel
+497   B- E-
+498   B- E-
+499   B- E-
+500   B- E-
+501   g E-
+502   B- E-
+503   B- E-
+504   g E-
+505   g E-
+506   E- E-
+correct!
+507   E- E-
+correct!
+508   E- E-
+correct!
+509   E- E-
+correct!
+510   B- E-
+511   B- E-
+512   F E-
+513   B- E-
+514   B- E-
+515   F E-
+516   B- E-
+517   B- E-
+518   B- E-
+519   E- E-
+correct!
+520   g E-
+521   B- E-
+522   g E-
+523   E- E-
+correct!
+524   e- E-
+Parallel
+525   e- E-
+Parallel
+526   e- E-
+Parallel
+527   E- E-
+correct!
+528   E- E-
+correct!
+529   E- E-
+correct!
+530   c E-
+Relative
+531   E E-
+532   E E-
+533   E E-
+534   c E-
+Relative
+535   E- E-
+correct!
+536   g E-
+537   g E-
+538   f+ E-
+539   f E-
+540   d E-
+541   e- E-
+Parallel
+542   E- E-
+correct!
+543   E- E-
+correct!
+544   g E-
+545   g E-
+546   E- E-
+correct!
+547   E- E-
+correct!
+548   E- E-
+correct!
+549   E- E-
+correct!
+550   E- E-
+correct!
+551   E- E-
+correct!
+552   E- E-
+correct!
+553   E- E-
+correct!
+554   E- E-
+correct!
+555   E- E-
+correct!
+556   E- E-
+correct!
+557   E- E-
+correct!
+558   E- E-
+correct!
+559   e- E-
+Parallel
+560   e- E-
+Parallel
+561   c E-
+Relative
+562   c E-
+Relative
+563   c E-
+Relative
+564   E- E-
+correct!
+565   A E-
+566   e- E-
+Parallel
+567   c E-
+Relative
+568   c E-
+Relative
+569   c E-
+Relative
+570   E- E-
+correct!
+571   B- E-
+572   B- E-
+573   E- E-
+correct!
+574   E- E-
+correct!
+575   E- E-
+correct!
+576   e- E-
+Parallel
+577   E- E-
+correct!
+578   E- E-
+correct!
+579   E- E-
+correct!
+580   E- E-
+correct!
+581   e- E-
+Parallel
+582   g E-
+583   g E-
+584   E- E-
+correct!
+585   E- E-
+correct!
+586   g E-
+587   g E-
+588   E- E-
+correct!
+589   g E-
+590   g E-
+591   E- E-
+correct!
+592   a E-
+593   f E-
+594   d E-
+595   B- E-
+596   F E-
+597   a E-
+598   a- E-
+599   E- E-
+correct!
+600   E- E-
+correct!
+601   g E-
+602   g E-
+603   b- E-
+604   f E-
+605   f E-
+606   a- E-
+607   a- E-
+608   g E-
+609   a E-
+610   a- E-
+611   a- E-
+612   a- E-
+613   g E-
+614   g E-
+615   b- E-
+616   f E-
+617   f E-
+618   d E-
+619   g E-
+620   g E-
+621   d E-
+622   f E-
+623   f E-
+624   d E-
+625   d E-
+626   D E-
+627   d E-
+628   B- E-
+629   E- E-
+correct!
+630   E- E-
+correct!
+631   C c
+Parallel
+632   C c
+Parallel
+633   e c
+634   e c
+635   C c
+Parallel
+636   e c
+637   e c
+638   e c
+639   e c
+640   G c
+641   G c
+642   a- c
+643   a- c
+644   a- c
+645   f c
+fifthPerfect
+646   F c
+647   b c
+648   d c
+649   f c
+fifthPerfect
+650   f c
+fifthPerfect
+651   f c
+fifthPerfect
+652   A- c
+653   A- c
+654   g f
+655   g f
+656   g f
+657   e f
+658   e f
+659   g f
+660   b- f
+fifthPerfect
+661   D- f
+662   g f
+663   B- f
+664   B- f
+665   e f
+666   g f
+667   G f
+668   C f
+669   C f
+670   C f
+671   C f
+672   C f
+673   C f
+674   c f
+675   C f
+676   C f
+677   C f
+678   C f
+679   C f
+680   C f
+681   C f
+682   C f
+683   C f
+684   G f
+685   C f
+686   F f
+Parallel
+687   f f
+correct!
+688   f f
+correct!
+689   f f
+correct!
+690   d b-
+691   B- b-
+Parallel
+692   F b-
+693   f b-
+694   f b-
+695   f b-
+696   f b-
+697   f b-
+698   f b-
+699   f b-
+700   f b-
+701   f b-
+702   f b-
+703   F b-
+704   F b-
+705   f b-
+706   f b-
+707   f b-
+708   C b-
+709   f b-
+710   f b-
+711   f b-
+712   f b-
+713   f b-
+714   f b-
+715   f D-
+716   e D-
+717   e- D-
+718   e D-
+719   e D-
+720   e D-
+721   f D-
+722   e D-
+723   e D-
+724   f+ D-
+725   a- D-
+726   e- D-
+727   f D-
+728   f D-
+729   e D-
+730   G- D-
+fifthPerfect
+731   e- D-
+732   c D-
+733   c D-
+734   c+ D-
+Parallel
+735   c D-
+736   c+ D-
+Parallel
+737   c D-
+738   a D-
+739   b- f
+fifthPerfect
+740   b- f
+fifthPerfect
+741   D- f
+742   g f
+743   g f
+744   B- f
+745   f f
+correct!
+746   e f
+747   D f
+748   c f
+749   c f
+750   g f
+751   f f
+correct!
+752   f f
+correct!
+753   A- f
+Relative
+754   e- f
+755   d f
+756   f f
+correct!
+757   c c
+correct!
+758   c c
+correct!
+759   A c
+760   A c
+761   a- c
+762   c c
+correct!
+763   c c
+correct!
+764   c c
+correct!
+765   d c
+766   c c
+correct!
+767   c c
+correct!
+768   c c
+correct!
+769   c c
+correct!
+770   E- c
+Relative
+771   E- c
+Relative
+772   f c
+fifthPerfect
+773   f c
+fifthPerfect
+774   f c
+fifthPerfect
+775   f c
+fifthPerfect
+776   f c
+fifthPerfect
+777   f c
+fifthPerfect
+778   c+ c
+779   d c
+780   d c
+781   F c
+782   e c
+783   e c
+784   g c
+785   g c
+786   a c
+787   g c
+788   g c
+789   G c
+790   a- c
+791   a- c
+792   g c
+793   a- c
+794   a- c
+795   g c
+796   G c
+797   g c
+798   A- c
+799   c c
+correct!
+800   G c
+801   G c
+802   a- c
+803   a- c
+804   g c
+805   a- c
+806   a- c
+807   g c
+808   G c
+809   D c
+810   A- c
+811   c c
+correct!
+812   G c
+813   c c
+correct!
+814   c c
+correct!
+815   c c
+correct!
+816   B- c
+817   c c
+correct!
+818   c c
+correct!
+819   c c
+correct!
+820   E- c
+Relative
+821   c c
+correct!
+822   c c
+correct!
+823   E- c
+Relative
+824   E- c
+Relative
+825   c c
+correct!
+826   c c
+correct!
+827   c c
+correct!
+828   G c
+829   G c
+830   a- c
+831   f c
+fifthPerfect
+832   F c
+833   b c
+834   d c
+835   F c
+836   f c
+fifthPerfect
+837   f c
+fifthPerfect
+838   A- c
+839   A- c
+840   A- c
+841   G c
+842   g c
+843   c c
+correct!
+844   C c
+Parallel
+845   F c
+846   e c
+847   c c
+correct!
+848   g c
+849   g c
+850   A- c
+851   a- c
+852   a- c
+853   G c
+854   g c
+855   c c
+correct!
+856   C c
+Parallel
+857   d c
+858   c c
+correct!
+859   d c
+860   e- c
+861   c c
+correct!
+862   c c
+correct!
+863   G c
+864   g c
+865   g c
+866   G c
+867   f c
+fifthPerfect
+868   c c
+correct!
+869   c c
+correct!
+870   c c
+correct!
+871   c c
+correct!
+872   d c
+873   d c
+874   c c
+correct!
+875   c c
+correct!
+876   c c
+correct!
+877   c c
+correct!
+878   G c
+879   b c
+880   c c
+correct!
+881   c c
+correct!
+882   C c
+Parallel
+883   C c
+Parallel
+884   f c
+fifthPerfect
+885   f c
+fifthPerfect
+886   c+ G-
+887   c+ G-
+888   c+ G-
+889   c+ G-
+890   b- G-
+891   D- G-
+892   D- G-
+893   b- G-
+894   D- G-
+895   b- G-
+896   a- G-
+897   B G-
+fifthPerfect
+898   b G-
+899   f+ G-
+Parallel
+900   b- G-
+901   b- G-
+902   G- G-
+correct!
+903   D- G-
+904   b- G-
+905   b- G-
+906   b- G-
+907   D- G-
+908   A- G-
+909   a- G-
+910   B G-
+fifthPerfect
+911   f+ G-
+Parallel
+912   b- G-
+913   b- e-
+914   a- e-
+fifthPerfect
+915   B- e-
+916   a- e-
+fifthPerfect
+917   a- e-
+fifthPerfect
+918   a- e-
+fifthPerfect
+919   a- e-
+fifthPerfect
+920   a- e-
+fifthPerfect
+921   a- e-
+fifthPerfect
+922   a- e-
+fifthPerfect
+923   B- e-
+924   e- e-
+correct!
+925   G- f
+926   D- f
+927   D- f
+928   f f
+correct!
+929   C f
+930   C f
+931   C f
+932   a f
+933   a- f
+934   A- f
+Relative
+935   G f
+936   G f
+937   a- f
+938   F f
+Parallel
+939   f f
+correct!
+940   f f
+correct!
+941   C f
+942   f f
+correct!
+943   f f
+correct!
+944   G f
+945   B- f
+946   B- F
+fifthPerfect
+947   F F
+correct!
+948   a F
+949   a F
+950   a F
+951   G F
+952   G F
+953   C F
+954   C F
+955   C F
+956   b- F
+957   B- F
+fifthPerfect
+958   B- F
+fifthPerfect
+959   a F
+960   C F
+961   C F
+962   C F
+963   C F
+964   C F
+965   C F
+966   a F
+967   C F
+968   C F
+969   a F
+970   C F
+971   C F
+972   C F
+973   C F
+974   C F
+975   C F
+976   C F
+977   C F
+978   C F
+979   C F
+980   C F
+981   C F
+982   a F
+983   a F
+984   F F
+correct!
+985   C F
+986   C F
+987   C F
+988   C F
+989   C F
+990   c F
+991   C F
+992   C F
+993   c F
+994   C F
+995   C F
+996   C F
+997   C F
+998   a F
+999   C F
+1000   C c
+Parallel
+1001   C c
+Parallel
+1002   C c
+Parallel
+1003   C c
+Parallel
+1004   C c
+Parallel
+1005   C c
+Parallel
+1006   c c
+correct!
+1007   c c
+correct!
+1008   c c
+correct!
+1009   E- c
+Relative
+1010   E- c
+Relative
+1011   D c
+1012   D c
+1013   E- c
+Relative
+1014   g c
+1015   G c
+1016   G c
+1017   G c
+1018   G c
+1019   G c
+1020   e c
+1021   g c
+1022   G c
+1023   e c
+1024   g c
+1025   g c
+1026   G c
+1027   G c
+1028   G c
+1029   G c
+1030   G c
+1031   G c
+1032   g c
+1033   e c
+1034   G c
+1035   g c
+1036   e c
+1037   e c
+1038   G c
+1039   c c
+correct!
+1040   c c
+correct!
+1041   e c
+1042   G c
+1043   G c
+1044   f+ c
+1045   D c
+1046   f+ c
+1047   f+ c
+1048   g c
+1049   G c
+1050   b c
+1051   G c
+1052   G c
+1053   G c
+1054   c c
+correct!
+1055   c c
+correct!
+1056   c c
+correct!
+1057   c c
+correct!
+1058   C c
+Parallel
+1059   C c
+Parallel
+1060   C c
+Parallel
+1061   C c
+Parallel
+1062   C c
+Parallel
+1063   C c
+Parallel
+1064   C c
+Parallel
+1065   C c
+Parallel
+1066   C c
+Parallel
+1067   e c
+1068   e c
+1069   e- c
+1070   e- c
+1071   e- c
+1072   e- c
+1073   c c
+correct!
+1074   C c
+Parallel
+1075   c c
+correct!
+1076   g c
+1077   c c
+correct!
+1078   c c
+correct!
+1079   e c
+1080   C c
+Parallel
+1081   C c
+Parallel
+1082   C c
+Parallel
+1083   C c
+Parallel
+1084   C c
+Parallel
+1085   C c
+Parallel
+1086   C c
+Parallel
+1087   C c
+Parallel
+1088   C c
+Parallel
+1089   C c
+Parallel
+1090   C c
+Parallel
+1091   c c
+correct!
+1092   c c
+correct!
+1093   c c
+correct!
+1094   c c
+correct!
+1095   C c
+Parallel
+1096   C c
+Parallel
+1097   c c
+correct!
+1098   C c
+Parallel
+1099   C c
+Parallel
+1100   C c
+Parallel
+1101   C c
+Parallel
+1102   C c
+Parallel
+1103   G c
+1104   c c
+correct!
+1105   c c
+correct!
+1106   G- c
+1107   e- c
+1108   c c
+correct!
+1109   c c
+correct!
+1110   c c
+correct!
+1111   c c
+correct!
+1112   a c
+1113   a c
+1114   c c
+correct!
+1115   c c
+correct!
+1116   c c
+correct!
+1117   c c
+correct!
+1118   c c
+correct!
+1119   g c
+1120   c c
+correct!
+1121   C c
+Parallel
+1122   e c
+1123   e c
+1124   c+ c
+1125   d c
+1126   e- c
+1127   c c
+correct!
+1128   E- c
+Relative
+1129   f+ c
+1130   g c
+1131   G c
+1132   c c
+correct!
+1133   c c
+correct!
+1134   A- c
+1135   g c
+1136   D c
+1137   d c
+1138   D c
+1139   g c
+1140   g c
+1141   g c
+1142   g c
+1143   g c
+1144   c c
+correct!
+1145   c c
+correct!
+1146   A- c
+1147   g c
+1148   e- c
+1149   e- c
+1150   e- c
+1151   c c
+correct!
+1152   c c
+correct!
+1153   d c
+1154   e- c
+1155   e- c
+1156   e- c
+1157   c c
+correct!
+1158   c c
+correct!
+1159   e c
+1160   g c
+1161   g c
+1162   G c
+Accuracy: 0.26549053356282226

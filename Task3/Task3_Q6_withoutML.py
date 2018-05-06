@@ -32,6 +32,10 @@ for i in range(12):
     Template = np.append(Template, np.roll(Minor_template, i), axis=0)
  
 #for debug
+d = {'C':0,'C+':1, 'D-':1, 'D':2, 'E-':3, 'E':4, 'F':5,'F+':6, 'G-':6,\
+           'G':7, 'A-':8, 'A':9, 'B-':10, 'B':11,\
+           'c':12, 'c+':13, 'd-':13,'d':14, 'd+':15,'e-':15, 'e':16, 'f':17, 'f+':18,\
+           'g':19,'g+':20, 'a-':20, 'a':21, 'b-':22, 'b':23}
 Key = ['C', 'D-', 'D', 'E-', 'E', 'F', 'G-',\
            'G', 'A-', 'A', 'B-', 'B',\
            'c', 'c+', 'd', 'e-', 'e', 'f', 'f+',\
@@ -41,7 +45,7 @@ music_pieces = 100;
 #manually change path to each genre and test each song     
 GENRES = "metal"      
 
-dataset_path = 'feature_label_data/dataset_mfcc_delta_13.npz'
+dataset_path = 'feature_label_data/ML_dataset_mfcc_delta_13.npz'
 dataset = np.load(dataset_path)
 train_examples = dataset['train']
 ans_train =dataset['ans_train']
@@ -49,11 +53,12 @@ test_examples = dataset['test']
 ans_test = dataset['ans_test']
 
 
- 
+ans_train = np.append(ans_train,ans_test)
+train_examples = np.append(train_examples,test_examples)
 
 idx = 0
 while idx < len(ans_train):
-    f = open('out/out_{0}.txt'.format(idx),'w')
+    f = open('out/out_2_{0}.txt'.format(idx),'w')
     acc = 0;
     train = train_examples[idx]
     data =  ans_train[idx]
@@ -85,37 +90,39 @@ while idx < len(ans_train):
         
         ansKey = data[t][1]
         t+=1
-        wr = str(t) + '   ' + Key[key]+'\n'
+        wr = str(t) + '   ' + Key[key]+' '
         f.write(wr)
         
         
         #print("Ans: ",ansKey)
-        
+        f.write(ansKey+'\n')
         if(key<12):
-            if Key[key] == ansKey:
+            if key == d[ansKey]:
                 acc = acc+1
-                #print("correct!")
-            elif Key[(key+7)%12] == ansKey:
+                
+                f.write("correct!\n")
+            elif (key+7)%12 == d[ansKey]:
                 acc = acc + 0.5
-                #print("fifthPerfect")
-            elif Key[(key + 9)%12+12] == ansKey:   
+                f.write("fifthPerfect\n")
+            elif (key + 9)%12+12 == d[ansKey]:   
                 acc = acc + 0.3
-                #print("Relative")
-            elif Key[key + 12] == ansKey:
+                f.write("Relative\n")
+            elif key + 12 == d[ansKey]:
                 acc = acc + 0.2
-                #print("Parallel")         
+                f.write("Parallel\n")         
         else:
-            if Key[key] == ansKey:
+            if key == d[ansKey]:
                 acc = acc+1
-            elif Key[(key-5)%12+12] == ansKey:
+                f.write("correct!\n")
+            elif (key-5)%12+12 == d[ansKey]:
                 acc = acc + 0.5
-                #print("fifthPerfect")
-            elif Key[(key-9)%12]== ansKey:   
+                f.write("fifthPerfect\n")
+            elif (key-9)%12== d[ansKey]:   
                 acc = acc + 0.3
-                #print("Relative")
-            elif Key[key - 12] == ansKey:
+                f.write("Relative\n")
+            elif key - 12 == d[ansKey]:
                 acc = acc + 0.2
-                #print("Parallel") 
+                f.write("Parallel\n") 
     f.write('Accuracy: '+ str(acc/len(data)))
     print(acc/len(data))        
     f.close()

@@ -84,7 +84,7 @@ if __name__ == "__main__":
     print(len(Y_train),len(Y_test),len(Y_valid))
     print('Finished in {:4.2f} sec!'.format(time() - t0))
     print('Collect {:d} samples totally.'.format(len(test)+len(train)+len(valid)))
-    datasetNames = 'dataset_' + featuretype + '_' + str(n_mfcc) + '.npz'
+    datasetNames = 'ML_dataset_' + featuretype + '_' + str(n_mfcc) + '.npz'
     datasetpath = os.path.join('feature_label_data', datasetNames)
     print('Dataset is saved at "feature_label_data/'+ datasetNames +'".')
     

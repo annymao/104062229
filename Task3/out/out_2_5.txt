@@ -1,0 +1,614 @@
+2   f F
+Parallel
+3   C F
+4   C F
+5   C F
+6   C F
+7   C F
+8   a F
+9   a F
+10   a F
+11   a F
+12   a F
+13   C F
+14   f F
+Parallel
+15   C F
+16   C F
+17   f F
+Parallel
+18   C F
+19   C F
+20   a F
+21   a F
+22   a F
+23   a F
+24   F F
+correct!
+25   D- F
+26   d F
+Relative
+27   d F
+Relative
+28   a F
+29   F F
+correct!
+30   F F
+correct!
+31   F F
+correct!
+32   B- F
+fifthPerfect
+33   g F
+34   a F
+35   F F
+correct!
+36   F F
+correct!
+37   b- F
+38   b- F
+39   g F
+40   g F
+41   g F
+42   g F
+43   g F
+44   g F
+45   g F
+46   g F
+47   F F
+correct!
+48   F F
+correct!
+49   D- F
+50   d F
+Relative
+51   d F
+Relative
+52   a F
+53   F F
+correct!
+54   F F
+correct!
+55   F F
+correct!
+56   B- F
+fifthPerfect
+57   g F
+58   a F
+59   F F
+correct!
+60   F F
+correct!
+61   b- F
+62   b- F
+63   g F
+64   g F
+65   g F
+66   g F
+67   g F
+68   g F
+69   g F
+70   g F
+71   F F
+correct!
+72   F F
+correct!
+73   a F
+74   a F
+75   a F
+76   a F
+77   a F
+78   g F
+79   f F
+Parallel
+80   f F
+Parallel
+81   d F
+Relative
+82   d F
+Relative
+83   a F
+84   C F
+85   a F
+86   a F
+87   a F
+88   a F
+89   a F
+90   a F
+91   F F
+correct!
+92   f F
+Parallel
+93   d F
+Relative
+94   D F
+95   e F
+96   g F
+97   d F
+Relative
+98   e F
+99   C F
+100   C C
+correct!
+101   C C
+correct!
+102   D C
+103   D C
+104   D C
+105   D C
+106   e C
+107   e C
+108   e C
+109   a C
+Relative
+110   c C
+Parallel
+111   c C
+Parallel
+112   c C
+Parallel
+113   c C
+Parallel
+114   c C
+Parallel
+115   c+ C
+116   c A-
+117   c A-
+118   c A-
+119   c A-
+120   c A-
+121   a- A-
+Parallel
+122   a- A-
+Parallel
+123   g A-
+124   c A-
+125   c A-
+126   c A-
+127   c A-
+128   c A-
+129   c A-
+130   c A-
+131   c A-
+132   c A-
+133   c A-
+134   c A-
+135   f A-
+Relative
+136   f A-
+Relative
+137   d A-
+138   F A-
+139   c A-
+140   c A-
+141   c+ A-
+142   F A-
+143   c A-
+144   c A-
+145   E- A-
+146   c A-
+147   c A-
+148   c A-
+149   A- A-
+correct!
+150   a- A-
+Parallel
+151   E- A-
+152   a- A-
+Parallel
+153   E- A-
+154   a- A-
+Parallel
+155   E- A-
+156   a- A-
+Parallel
+157   E- A-
+158   A- A-
+correct!
+159   A- A-
+correct!
+160   a- A-
+Parallel
+161   g A-
+162   g A-
+163   A- f
+Relative
+164   A- f
+Relative
+165   f f
+correct!
+166   f f
+correct!
+167   f f
+correct!
+168   e- f
+169   E- D-
+170   c+ D-
+Parallel
+171   D- D-
+correct!
+172   c+ D-
+Parallel
+173   c+ D-
+Parallel
+174   G D-
+175   e D-
+176   f D-
+177   G D-
+178   g D-
+179   c+ f
+180   c+ f
+181   c f
+182   B f
+183   G f
+184   G f
+185   c f
+186   b f
+187   b f
+188   b f
+189   b f
+190   c f
+191   c f
+192   c f
+193   c f
+194   c f
+195   c f
+196   C f
+197   B f
+198   F f
+Parallel
+199   F f
+Parallel
+200   F f
+Parallel
+201   d f
+202   e f
+203   e f
+204   e f
+205   f f
+correct!
+206   f f
+correct!
+207   C f
+208   C f
+209   f F
+Parallel
+210   C F
+211   C F
+212   f F
+Parallel
+213   C F
+214   C F
+215   a F
+216   a F
+217   a F
+218   a F
+219   a F
+220   F F
+correct!
+221   f F
+Parallel
+222   F F
+correct!
+223   C F
+224   D- F
+225   c F
+226   c F
+227   C F
+228   a F
+229   a F
+230   A F
+231   A F
+232   d F
+Relative
+233   d F
+Relative
+234   d F
+Relative
+235   F F
+correct!
+236   F F
+correct!
+237   F F
+correct!
+238   F F
+correct!
+239   F F
+correct!
+240   g F
+241   g F
+242   F F
+correct!
+243   F F
+correct!
+244   D- F
+245   b- F
+246   g F
+247   g F
+248   g F
+249   g F
+250   g F
+251   g F
+252   g F
+253   g F
+254   g F
+255   F F
+correct!
+256   d F
+Relative
+257   d F
+Relative
+258   d F
+Relative
+259   d F
+Relative
+260   F F
+correct!
+261   f F
+Parallel
+262   f F
+Parallel
+263   d F
+Relative
+264   D F
+265   f+ F
+266   a F
+267   F F
+correct!
+268   d F
+Relative
+269   d F
+Relative
+270   g F
+271   g F
+272   g F
+273   g F
+274   g F
+275   g F
+276   g F
+277   g F
+278   g F
+279   a F
+280   a F
+281   a F
+282   a F
+283   a F
+284   a F
+285   g F
+286   g F
+287   f F
+Parallel
+288   d F
+Relative
+289   d F
+Relative
+290   a F
+291   F F
+correct!
+292   d F
+Relative
+293   d F
+Relative
+294   d F
+Relative
+295   d F
+Relative
+296   f F
+Parallel
+297   f F
+Parallel
+298   f F
+Parallel
+299   g F
+300   F F
+correct!
+301   g F
+302   B- F
+fifthPerfect
+303   b- F
+304   B- F
+fifthPerfect
+305   B- F
+fifthPerfect
+306   B- F
+fifthPerfect
+307   B- F
+fifthPerfect
+308   b- F
+309   C F
+310   C F
+311   C F
+312   C F
+313   C F
+314   C F
+315   C F
+316   C F
+317   f F
+Parallel
+318   C F
+319   C F
+320   F F
+correct!
+321   C F
+322   C F
+323   C F
+324   a F
+325   a F
+326   a F
+327   a F
+328   F F
+correct!
+329   f F
+Parallel
+330   C F
+331   C F
+332   C F
+333   a F
+334   C F
+335   C F
+336   a F
+337   a F
+338   a F
+339   F F
+correct!
+340   f F
+Parallel
+341   d F
+Relative
+342   d F
+Relative
+343   d F
+Relative
+344   F F
+correct!
+345   f F
+Parallel
+346   f F
+Parallel
+347   B- F
+fifthPerfect
+348   g F
+349   g F
+350   a F
+351   F F
+correct!
+352   d F
+Relative
+353   d F
+Relative
+354   g F
+355   g F
+356   g F
+357   g F
+358   g F
+359   g F
+360   g F
+361   g F
+362   g F
+363   F F
+correct!
+364   d F
+Relative
+365   d F
+Relative
+366   d F
+Relative
+367   d F
+Relative
+368   b- F
+369   a F
+370   F F
+correct!
+371   d F
+Relative
+372   D F
+373   f+ F
+374   a F
+375   a F
+376   d F
+Relative
+377   d F
+Relative
+378   d F
+Relative
+379   g F
+380   g F
+381   g F
+382   g F
+383   g F
+384   D F
+385   d F
+Relative
+386   d F
+Relative
+387   d F
+Relative
+388   a F
+389   G F
+390   G F
+391   F F
+correct!
+392   B- F
+fifthPerfect
+393   g F
+394   g F
+395   g F
+396   g F
+397   g F
+398   g F
+399   g F
+400   f F
+Parallel
+401   E F
+402   E F
+403   C F
+404   C F
+405   C F
+406   C F
+407   C F
+408   C F
+409   C F
+410   a F
+411   a F
+412   g F
+413   f F
+Parallel
+414   f F
+Parallel
+415   a F
+416   a F
+417   g F
+418   a F
+419   a F
+420   F F
+correct!
+421   a F
+422   a F
+423   a F
+424   g F
+425   g F
+426   f F
+Parallel
+427   a F
+428   a F
+429   a F
+430   a F
+431   a F
+432   a F
+433   a F
+434   a F
+435   F F
+correct!
+436   a F
+437   a F
+438   a F
+439   a F
+440   a F
+441   F F
+correct!
+442   f F
+Parallel
+443   f F
+Parallel
+444   D- F
+445   D- F
+446   D- F
+447   D- F
+448   D- F
+449   f F
+Parallel
+450   C F
+451   C F
+452   F F
+correct!
+453   C F
+454   C F
+455   f F
+Parallel
+456   f F
+Parallel
+457   C F
+458   C F
+459   C F
+460   C F
+Accuracy: 0.17478260869565215

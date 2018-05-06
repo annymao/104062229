@@ -68,11 +68,12 @@ def parselabel(audiopath, feature_type='mfcc_delta'):
     y, sr = librosa.load(audiopath, sr=None)
     XChroma = getChroma(y, sr)
     #print(XChroma.shape)
-    idx = 86
+    idx = 0
     c = []
     XChroma = np.transpose(XChroma)
     while idx < XChroma.shape[0]:
-        c.append( np.sum(XChroma[idx-86:idx],axis = 0))
+        if(idx+200<XChroma.shape[0]):
+            c.append( np.sum(XChroma[idx:idx+200],axis = 0))
         idx = idx +86
     print(len(c))
     return (c)
@@ -93,7 +94,7 @@ def parseAnswer(answerPath,length):
     while leng >=length:
         ans.pop(leng)
         leng-=1
-    print(ans)
+
     print(length,len(ans))
     #print(data.shape)
     return ans
