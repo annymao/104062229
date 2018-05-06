@@ -88,14 +88,9 @@ model = Sequential()
 # Dense(64) 是一个具有 64 个隐藏神经元的全连接层。
 # 在第一层必须指定所期望的输入数据尺寸：
 # 在这里，是一个 20 维的向量。
-model.add(Dense(128, activation='relu', input_dim=12))
-model.add(Dropout(0.5))
-model.add(Dense(128, activation='relu'))
-model.add(Dense(64, activation='relu'))
-model.add(Dense(128, activation='sigmoid'))
-model.add(Dense(64, activation='relu'))
-model.add(Dense(128, activation='relu'))
-model.add(Dropout(0.5))
+model.add(Dense(64, activation='relu', input_dim=12))
+model.add(Dense(32, activation='relu'))
+model.add(Dense(32, activation='relu'))
 model.add(Dense(24, activation='softmax'))
 
 sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
@@ -104,7 +99,7 @@ model.compile(loss='categorical_crossentropy',
               metrics=['accuracy'])
 
 model.fit(x_train, y_train,
-          epochs=100,
+          epochs=50,
           batch_size=32,validation_data=(x_valid, y_valid))
 score = model.evaluate(x_test, y_test, batch_size=128)
 f = open('out/Q5_3.txt','w')
@@ -145,3 +140,35 @@ for t in range(0,len(ans_test)):
     f.write('\n')
     print (acc/p.shape[0])
 f.close()
+p = model.predict(x_test[0:len(ans_test[4])-1])
+print(p.shape)
+acc = 0;
+for i in range(0, p.shape[0]):
+    key = np.argmax(p[i])
+    print (i,Key[key],ans_test[4][i])
+    if(key<12):
+        if key == d[ans_test[4][i][1]]:
+            acc = acc+1
+            print("correct!")
+        elif (key+7)%12 == d[ans_test[4][i][1]]:
+            acc = acc + 0.5
+            print("fifthPerfect")
+        elif (key + 9)%12+12 == d[ans_test[4][i][1]]:   
+            acc = acc + 0.3
+            print("Relative")
+        elif key + 12 == d[ans_test[4][i][1]]:
+            acc = acc + 0.2
+            print("Parallel")         
+    else:
+        if key == d[ans_test[4][i][1]]:
+            acc = acc+1
+        elif (key-5)%12+12 == d[ans_test[4][i][1]]:
+            acc = acc + 0.5
+            print("fifthPerfect")
+        elif (key-9)%12== d[ans_test[4][i][1]]:   
+            acc = acc + 0.3
+            print("Relative")
+        elif key - 12 == d[ans_test[4][i][1]]:
+            acc = acc + 0.2
+
+print (acc/p.shape[0])
